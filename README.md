@@ -8,4 +8,4 @@ Observações:
 2. O exercício deve ser resolvia à mão (manuscrito) em papel, escaneado em imagem, convertido em pdf e adicionado à este repositório.
 3. Certifique-se que o pdf esteja BEM legível. Arquivos ilegíveis não serão aceitos.
 4. Apenas serão aceitos manuscritos escaneados. Qualquer outro formato editorado NÃO será aceito.
-5. No caso deste relatório, copie os gráficos para o word, imprima, cole no local reservado para as figuras do manuscrito do seu relatório e escaneie.
+5. No caso deste relatório este deve ser manuscrito e escaneado. Gere um único arquivo do word com as figuras indexadas conforme seu relatório.
