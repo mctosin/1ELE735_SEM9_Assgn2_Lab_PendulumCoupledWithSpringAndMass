@@ -1,6 +1,8 @@
 # 1ELE735_SEM9_Assgn2_Lab_PendulumCoupledWithSpringAndMass
 
-Laboratório para ser desenvoldido no MatLab. A descrição do problema e o procedimento encontram-se no roteiro neste repositório.
+Laboratório para ser desenvoldido no MatLab. A descrição do problema e o procedimento encontram-se no roteiro neste repositório, no arquivo:
+
+1ELE735-Sem9-Assgn2-Lab-Pendulo.pdf
 
 Observações sobre o formato de entraga do relatório e outros:
 
