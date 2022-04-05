@@ -2,7 +2,7 @@
 
 Laboratório para ser desenvoldido no MatLab. A descrição do problema e o procedimento encontram-se no roteiro neste repositório.
 
-Observações:
+Observações sobre o formato de entraga do relatório e outros:
 
 1. Clone este repositório localmente na sua máquina, faça no seu repositório local, atualize-o e suba as atualizações (commits) para o repositório remoto.
 2. O exercício deve ser resolvia à mão (manuscrito) em papel, escaneado em imagem, convertido em pdf e adicionado à este repositório.
